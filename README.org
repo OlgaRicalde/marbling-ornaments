@@ -12,11 +12,28 @@
 [[./images/materials.jpg]]
 
 ** Preparing Design
+[[./images/design-1.jpg]]
+[[./images/design-2.jpg]]
+[[./images/design-3.jpg]]
 
 ** Procedure
 
+[[./images/dipping.jpg]]
+
 ** Retrieving the Ornament
+
+[[./images/recovering-ornament.jpg]]
 
 ** Drying
 
+[[./images/ready-to-hant.jpg]]
+
 ** Finished
+
+[[./images/finished-ornaments.jpg]]
+[[./images/finished-set-1.jpg]]
+[[./images/finished-set-2.jpg]]
+
+** Movie
+
+[[./images/procedure-movie.mp4]]
