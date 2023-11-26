@@ -9,7 +9,7 @@
 
 #+CAPTION: All the materials gathered.
 #+NAME:   fig:materials
-[[./images/materials.jgp
+[[./images/materials.jgp]]
 
 ** Preparing Design
 
