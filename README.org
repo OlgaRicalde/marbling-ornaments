@@ -1,10 +1,19 @@
 * Marbling Christmas Ornaments
 
 ** Materials
++ Carrageenan in a deep container
++ Christmas Ornaments
++ Droplets
++ Paint
++ Skewer
+
+#+CAPTION: All the materials gathered.
+#+NAME:   fig:materials
+[[./images/materials.jgp
 
 ** Preparing Design
 
-** Submerging the Ornament
+** Procedure
 
 ** Retrieving the Ornament
 
