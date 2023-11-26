@@ -18,6 +18,8 @@
 
 ** Procedure
 
+[[./images/procedure-movie.mp4]]
+
 [[./images/dipping.jpg]]
 
 ** Retrieving the Ornament
@@ -33,7 +35,3 @@
 [[./images/finished-ornaments.jpg]]
 [[./images/finished-set-1.jpg]]
 [[./images/finished-set-2.jpg]]
-
-** Movie
-
-[[./images/procedure-movie.mp4]]
